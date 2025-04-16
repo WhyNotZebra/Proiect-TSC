@@ -43,12 +43,12 @@ Mai jos este prezentată o listă cu principalele componente folosite în proiec
 
 | Referință         | Valoare / Cod               | Dispozitiv / Tip          | Descriere                                 | Link / Datasheet                      |
 |-------------------|-----------------------------|---------------------------|-------------------------------------------|----------------------------------------|
-| **ESP32-C6**      | ESP32-C6-DevKitC-1         | Placă DevKitC-1 ESP32-C6 | Microcontroller Wi-Fi 6 + BLE 5           | [Mouser Link](#) <br> [Datasheet](#)   |
-| **Ecran e-Paper** | 7.5" Waveshare V2          | Interfață SPI            | Afișaj E-Ink 800×480                      | [Waveshare Link](#) <br> [Ex. datasheet](#) |
-| **Baterie Li-Po** | 3.7V / 1800mAh             | Cellevia LP584174 (ex.)  | Sursă portabilă de alimentare            | [Exemplu datasheet](#)                |
-| **Modul încărcare** | TP4056 / similar         | TP4056                   | Încărcare baterie Li-Po via USB           | [TP4056 Datasheet](#)                 |
-| **Regulator LDO** | AMS1117-3.3V              | SOT223 / SOT25           | Stabilizator 3.3V                        | [AMS1117 Datasheet](#)                |
-| **Buton push**    | PBS-110 / BOOT_BTN         | 6×6mm tact switch        | Buton de interacțiune (reset, BOOT)       | [Omron B3F](#)                         |
+| **ESP32-C6**      | ESP32-C6-DevKitC-1         | Placă DevKitC-1 ESP32-C6 | Microcontroller Wi-Fi 6 + BLE 5           | [Mouser Link](https://ro.mouser.com/ProductDetail/Espressif-Systems/ESP32-C6?qs=Imq1NPwxi75noDtUpuVuWw%3D%3D)  |
+| **Ecran e-Paper** | 7.5" Waveshare V2          | Interfață SPI            | Afișaj E-Ink 800×480                      | [Waveshare Link](https://www.waveshare.com/7.5inch-e-paper-hat.htm) |
+| **Baterie Li-Po** | 3.7V / 1800mAh             | Cellevia LP584174 (ex.)  | Sursă portabilă de alimentare            | [Exemplu Link](https://ampul.eu/ro/baterii/5519-baterie-li-pol-150mah-37v-302025?gad_source=1&gclid=Cj0KCQjwh_i_BhCzARIsANimeoFN1-HAlnZfuOeZvNb24-6k1Iqzc5mE4D4TLI-UVIl3o--vkGGrcBAaAms3EALw_wcB)                |
+| **Modul încărcare** | TP4056 / similar         | TP4056                   | Încărcare baterie Li-Po via USB           | [TP4056 Link](https://ro.mouser.com/ProductDetail/DFRobot/DFR0668?qs=yqaQSyyJnNgw1QAWGbVsjg%3D%3D)                 |
+| **Regulator LDO** | AMS1117-3.3V              | SOT223 / SOT25           | Stabilizator 3.3V                        | [AMS1117 Link](https://ro.mouser.com/ProductDetail/Seeed-Studio/105020001?qs=1%252B9yuXKSi8Cg%2Fkz%252BrjYoTQ%3D%3D)                |
+| **Buton push**    | PBS-110 / BOOT_BTN         | 6×6mm tact switch        | Buton de interacțiune (reset, BOOT)       | [Omron B3F Link](https://ro.mouser.com/ProductDetail/Omron-Electronics/B3FS-1095P?qs=sGAEpiMZZMtFyPk3yBMYYNECRiq1CNGHjqBSh25baBg%3D)                         |
 | **Diverse**       | Condensatori, rezistențe, diode TVS, conectori USB-C, etc. | - | Pentru filtre, protecție și fixare tensiune | Vezi fișierul complet BOM din repository |
 
 ---
